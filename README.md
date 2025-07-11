@@ -13,7 +13,9 @@ A modern, visually appealing web app to organize, track, and manage your study t
 
 ## Screenshots
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Home-Screen-Dashboard.png)
+![Task Editor](Editing-Function.png)
+
 
 ## Getting Started
 
@@ -33,7 +35,7 @@ A modern, visually appealing web app to organize, track, and manage your study t
 
 ## Screenshots
 
-![App Screenshot](Smart_Study_Planner.png)
+
 
 ## Getting Started
 
