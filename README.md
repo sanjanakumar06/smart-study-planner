@@ -33,7 +33,7 @@ A modern, visually appealing web app to organize, track, and manage your study t
 
 ## Screenshots
 
-!(Smart_Study_Planner.png)
+![App Screenshot](Smart_Study_Planner.png)
 
 ## Getting Started
 
